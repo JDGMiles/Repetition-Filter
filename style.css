@@ -1,4 +1,4 @@
-@font-face {font-family: Liberation Serif; src: url(http://jdgmiles.github.io/LiberationSerif.woff);}
+@font-face {font-family: Liberation Serif; src: url(../jdgmiles.github.io/LiberationSerif.woff);}
 
 button, body, a, textarea, input {color: white; background-color:#000000; font-family: Liberation Serif, Tahoma, Arial, Helvetica, Sans-Serif;}
 button {padding:0px; font-size:160%;}
